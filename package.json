@@ -93,7 +93,7 @@
     "react-dom": "^15.5.4",
     "react-test-renderer": "^15.5.4",
     "url-loader": "^0.5.8",
-    "webpack": "^2.6.1",
+    "webpack": "^5.94.0",
     "webpack-bundle-analyzer": "^2.8.2"
   },
   "peerDependencies": {
